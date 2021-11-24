@@ -1,2 +1,2 @@
-# Programming-Problems-Sloved
-This is the personal repository to put the solutions of the programming problems which I have solved.
+# Programming-Problems
+This repository contains all the solutions of the programming problems which I have solved so far.
