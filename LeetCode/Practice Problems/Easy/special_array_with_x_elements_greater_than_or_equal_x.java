@@ -2,8 +2,6 @@ class Solution {
     public int specialArray(int[] nums) {
         int n = nums.length;
         
-        Arrays.sort(nums);
-        
         int start = 1, end = n;
         while(start <= end) {
             int mid = start + (end - start) / 2;
